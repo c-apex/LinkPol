@@ -1,0 +1,5 @@
+{
+	"BOT_TOKEN" : "BOT_TOKEN",
+	"FILTER_LIST" : ["google", "apple", "steam"],
+	"WHITELIST" : ["google.com", "apple.com", "steampowered.com", "steamcommunity.com"]
+}
